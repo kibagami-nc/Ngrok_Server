@@ -23,7 +23,7 @@ Le dépôt contient les éléments suivants :
 
    ```bash
    git clone https://github.com/kibagami-nc/Ngrok_Server.git
-   cd Ngrok_PF
+   cd Ngrok_Server
    ```
    
 2. Placez les fichiers que vous souhaitez partager dans le dossier Public.
