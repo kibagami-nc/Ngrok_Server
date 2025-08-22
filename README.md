@@ -22,7 +22,7 @@ Le dépôt contient les éléments suivants :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/kibagami-nc/Ngrok_PF.git
+   git clone https://github.com/kibagami-nc/Ngrok_Server.git
    cd Ngrok_PF
    ```
    
